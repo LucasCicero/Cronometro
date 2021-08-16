@@ -1,7 +1,7 @@
 # Cronometro
 
 
-Cronometro simples feito em html, CSS e Javascript
+<h1>Cronometro simples feito em html, CSS e Javascript</h1>
 
 Tecnologias usadas:
 
