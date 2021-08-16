@@ -1,16 +1,16 @@
 # Cronometro
 
 
-<h1>Cronometro simples feito em html, CSS e Javascript</h1>
+Cronometro simples feito em html, CSS e Javascript
 
-Tecnologias usadas:
+# Tecnologias usadas:
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>Javascript</li>
+ </ul>
 
-Html
-Css
-Javascript
-
-
-Como executar:
+# Como executar:
 
 Após abrir no navegador, clicar o botão Start para começar a contagem.
 Clicar no botão "Pause" para pausar. Para continuar a contagem clique "Start"
